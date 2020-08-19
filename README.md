@@ -20,3 +20,8 @@ Video: https://youtu.be/by3PzLYaiqM
 
 
 Diapositiva : https://docs.google.com/presentation/d/1ER3G_9c_L1Yz91RhJCEtWcL0UTbko90dQu5Ov09TqXE/edit?usp=sharing
+
+
+
+
+Sounds Legit is our second talk @dc5411. It was authored by Luis Ángel Ramírez Mendoza, Farith Pérez Sáez and Mauro Eldritch.
