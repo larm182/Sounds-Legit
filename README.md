@@ -26,4 +26,4 @@ Diapositiva : https://docs.google.com/presentation/d/1ER3G_9c_L1Yz91RhJCEtWcL0UT
 
 
 
-Sounds Legit is our second talk @dc5411. It was authored by Luis Ángel Ramírez Mendoza, Farith Pérez Sáez and Mauro Eldritch.
+Sounds Legit is our second talk @dc5411. It was authored by Luis Ángel Ramírez Mendoza and Mauro Eldritch.
