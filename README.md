@@ -16,14 +16,22 @@ What would happen if someone connected this innocent device to their work termin
 Well, it is a speaker after all. And it definitely sounds legit...
 
 
-Conferencia: DEF CON 28 Red Team Village
+Conference: DEF CON 28 Red Team Village
 
 
 Video: https://youtu.be/by3PzLYaiqM	
 
 
-Diapositiva : https://docs.google.com/presentation/d/1ER3G_9c_L1Yz91RhJCEtWcL0UTbko90dQu5Ov09TqXE/edit?usp=sharing
+Slide: https://docs.google.com/presentation/d/1ER3G_9c_L1Yz91RhJCEtWcL0UTbko90dQu5Ov09TqXE/edit?usp=sharing
 
+
+Conference: HoneyCon 
+
+
+Video: https://www.youtube.com/watch?v=eGPc9rVqjgE
+
+
+Slide : https://docs.google.com/presentation/d/1pyZwh074b8u-VApeGk_0CuYPU0IHS6vGO6I9F5eTAgU/edit?usp=sharing
 
 
 Sounds Legit is our second talk @dc5411. It was authored by Luis Ángel Ramírez Mendoza and Mauro Eldritch.
