@@ -1,4 +1,4 @@
-Sounds Legit: Why you shouldn't trust that speaker
+### Sounds Legit: Why you shouldn't trust that speaker
 BadUSB devices are popular worldwide, and almost no one ignores their nature: an object with a USB connection (usually a pendrive) connects to a computer and tells it "I am a keyboard", proceeding to send ("type") arbitrary commands, usually malicious.
 
 In this talk we have decided to go beyond the classic concept of a malicious pendrive.
@@ -16,7 +16,7 @@ What would happen if someone connected this innocent device to their work termin
 Well, it is a speaker after all. And it definitely sounds legit...
 
 
-Conference: DEF CON 28 Red Team Village
+### Conference: DEF CON 28 Red Team Village
 
 
 Video: https://youtu.be/by3PzLYaiqM	
@@ -25,7 +25,7 @@ Video: https://youtu.be/by3PzLYaiqM
 Slide: https://docs.google.com/presentation/d/1ER3G_9c_L1Yz91RhJCEtWcL0UTbko90dQu5Ov09TqXE/edit?usp=sharing
 
 
-Conference: HoneyCon 
+### Conference: HoneyCon 
 
 
 Video: https://www.youtube.com/watch?v=eGPc9rVqjgE
